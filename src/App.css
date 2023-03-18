@@ -5,6 +5,23 @@
   text-align: center;
 }
 
+.active {
+  color: burlywood;
+}
+.primary {
+  background-color: aqua;
+}
+.secondary {
+  background-color: saddlebrown;
+}
+.alert {
+  display: flex;
+  flex-direction: column;
+  padding: 2.5rem;
+  border: 1px solid whitesmoke;
+  padding-bottom: 1.5rem;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
